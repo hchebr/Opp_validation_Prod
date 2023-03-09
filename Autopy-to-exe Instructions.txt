@@ -1,0 +1,10 @@
+Step1: Go to terminal of IDE  (like Anaconda Prompt or in pycharm click terminal in the bottom ) and do pip install auto-py-to-exe
+Step2: After successful installation, run the command auto-py-to-exe. A pop up will open.
+Step3: Follow "exe settings_autopy.jpg" file in the folder 
+
+Note: In the Additional Files section , its not clear what was selected. Please find those instructions below
+
+Click on Add Files and select Icon .ico file and logo .png file in the folder one after the other. 
+( We provide these two paths to make system understand these are the files which we want additionally and system stores them in a temp storage inside the app)
+
+Click on Add folder and Add the entire folder of project
